@@ -9,3 +9,14 @@ C:\Users\bruno\source\repos\TicketsPlease\TicketsPlease\obj\Debug\netcoreapp3.0\
 C:\Users\bruno\source\repos\TicketsPlease\TicketsPlease\obj\Debug\netcoreapp3.0\TicketsPlease.AssemblyInfo.cs
 C:\Users\bruno\source\repos\TicketsPlease\TicketsPlease\obj\Debug\netcoreapp3.0\TicketsPlease.dll
 C:\Users\bruno\source\repos\TicketsPlease\TicketsPlease\obj\Debug\netcoreapp3.0\TicketsPlease.pdb
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\Bruno\TicketsPlease\TicketsPlease\bin\Debug\netcoreapp3.0\TicketsPlease.exe
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\Bruno\TicketsPlease\TicketsPlease\bin\Debug\netcoreapp3.0\TicketsPlease.deps.json
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\Bruno\TicketsPlease\TicketsPlease\bin\Debug\netcoreapp3.0\TicketsPlease.runtimeconfig.json
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\Bruno\TicketsPlease\TicketsPlease\bin\Debug\netcoreapp3.0\TicketsPlease.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\Bruno\TicketsPlease\TicketsPlease\bin\Debug\netcoreapp3.0\TicketsPlease.dll
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\Bruno\TicketsPlease\TicketsPlease\bin\Debug\netcoreapp3.0\TicketsPlease.pdb
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\Bruno\TicketsPlease\TicketsPlease\obj\Debug\netcoreapp3.0\TicketsPlease.csprojAssemblyReference.cache
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\Bruno\TicketsPlease\TicketsPlease\obj\Debug\netcoreapp3.0\TicketsPlease.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\Bruno\TicketsPlease\TicketsPlease\obj\Debug\netcoreapp3.0\TicketsPlease.AssemblyInfo.cs
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\Bruno\TicketsPlease\TicketsPlease\obj\Debug\netcoreapp3.0\TicketsPlease.dll
+C:\Users\Robin\source\repos\PRRPRR01v2\InlämningarTicketSales\Bruno\TicketsPlease\TicketsPlease\obj\Debug\netcoreapp3.0\TicketsPlease.pdb

@@ -86,6 +86,14 @@ namespace TicketSales_DX
             Console.WriteLine("Quit (To end the program)\n");
         }
 
+        /*
+         * Robin:
+         * Jag hade nog velat att vissa delar av Buy-metoden hade brytits ut till egna metoder.
+         * T.ex. så hade man kunnat lägga så att allt det som kollar om hela namnet är lämpigt
+         * i en egen metod. Jag brukar tänka om en metod börjar bli lång (mer än 30 rader)
+         * så kanske det är dags att se över strukturen. Om metoden är 100 rader så är nåt
+         * tokigt. Det är dock inga hårda regler, utan något som man får överväga.
+         */
         private void Buy()
         {
             int showCount = 0;
@@ -329,6 +337,10 @@ namespace TicketSales_DX
             }
             return rndString;
         }
+        /*
+         * Robin:
+         * Snyggt användande av hjälpmetod!
+         */
         private int Parse(string enteredString)
         {
             try
@@ -475,3 +487,12 @@ namespace TicketSales_DX
     }
 
 }
+
+/*
+ * Robin:
+ * Skulle vilja se en kravspec eller liknande. Saknar att kunna se den totala försäljningen och den totala summan.
+ * 
+ * Annars ser programmet väldigt bra ut! Koden ser överlag konsekvent ut, och är tydligt namngivet. Hittar
+ * inte heller några uppenbara logiska fel. Hade varit snyggt om koden kunde ta bort onödiga tomma rader ur
+ * filerna. Intressant att du tillåter negativa tal, och att det omvandlas till positiva. 
+ */
